@@ -45,9 +45,9 @@ namespace ClientDTT.User_Control
 
         public void SolveMessage(string message)
         {
-            string[] messageList= message.Split('_');
+            string[] messageList = message.Split('_');
             int point = 0;
-            switch(messageList[0])
+            switch (messageList[0])
             {
                 case "0":
                     System.IO.StreamReader file = new System.IO.StreamReader("IP.txt");
@@ -76,7 +76,7 @@ namespace ClientDTT.User_Control
                         point += 10;
                     txtBlockPoint.Text = point.ToString();
                     txtBlockQuestion.Text = messageList[2];
-                    
+
                     if (messageList[3] != string.Empty)
                     {
                         mediaAct.Upload(imgQuestion, messageList[3]);
