@@ -1,0 +1,145 @@
+Send: 0_
+Receive: 1_0_TS1_0_TS2_0_TS3_0_TS4_0
+Receive: 1_1_0_Trong số : mặt phẳng nghiêng, đòn bẩy, ròng rọc, máy cơ đơn giản nào cho ta lợi về công?_
+Send: 0_
+Receive: 0_0_Nguyen Văn Hùng_0_TS2_0_TS3_0_TS4_0
+Receive: 1_0_Nguyen Văn Hùng_0_TS2_0_TS3_0_TS4_0
+Receive: 2_0_Nguyen Văn Hùng_0_TS2_0_TS3_0_TS4_0
+Receive: 5_0_Nguyen Văn Hùng_0_TS2_0_TS3_0_TS4_0
+Receive: 2_0_Nguyen Văn Hùng_0_TS2_0_TS3_0_TS4_0
+Receive: 1_0_Nguyen Văn Hùng_0_TS2_0_TS3_0_TS4_0
+Receive: 1_0_Nguyen Văn Hùng_0_TS2_0_TS3_0_TS4_0
+Receive: 2_0_Nguyen Văn Hùng_0_TS2_0_TS3_0_TS4_0
+Receive: 1_0_Nguyen Văn Hùng_0_TS2_0_TS3_0_TS4_0
+Receive: 1_1_0_Trong số : mặt phẳng nghiêng, đòn bẩy, ròng rọc, máy cơ đơn giản nào cho ta lợi về công?_
+Receive: 1_0_Nguyen Văn Hùng_0_TS2_0_TS3_0_TS4_0
+Receive: 1_1_0_Quốc kỳ Việt Nam có bao nhiêu tâm đối xứng?_
+Send: 0_
+Receive: 1_0_TS1_0_TS2_0_TS3_0_TS4_0
+Receive: 1_1_0_Trong số : mặt phẳng nghiêng, đòn bẩy, ròng rọc, máy cơ đơn giản nào cho ta lợi về công?_
+Receive: 1_1_0_Quốc kỳ Việt Nam có bao nhiêu tâm đối xứng?_
+Receive: 1_1_1_Ngôn ngữ gốc được sử dụng trong truyện cổ Grim là gì?_
+Receive: 1_0_TS1_10_TS2_0_TS3_0_TS4_0
+Receive: 1_1_0_Để tăng chất lượng xăng dầu trong chế hóa dầu mỏ, người ta dùng phương pháp nào ?_
+Receive: 1_1_1_Di tích thành Cổ Loa (tòa thành có niên đại cổ nhất ở Việt Nam) hiện đang nằm ở tỉnh thành nào?_
+Receive: 1_0_TS1_20_TS2_0_TS3_0_TS4_0
+Receive: 1_1_0_How many countries border Vietnam's Central Highlands?
+_
+Receive: 1_1_1_CAF là tên viết tắt của liên đoàn bóng đá châu lục nào?_
+Receive: 1_0_TS1_30_TS2_0_TS3_0_TS4_0
+Receive: 0_0_TS1_40_TS2_0_TS3_0_TS4_0
+Receive: 1_1_0_Hòn đảo nào lớn nhất trong các đảo vùng Caribe?_
+Receive: 0_0_TS1_40_TS2_0_TS3_0_TS4_0
+Receive: 1_1_0_Bệnh tiểu đường và chứng hạ đường huyết là do sự rối loạn trong hoạt động của tuyến nội tiết nào?_
+Receive: 1_1_1_Nam trung tạp ngâm, Bắc hành tạp lục, Thanh Hiên thi tập là những tác phẩm của ai?_
+Receive: 1_0_TS1_50_TS2_0_TS3_0_TS4_0
+Receive: 0_0_TS1_60_TS2_0_TS3_0_TS4_0
+Receive: 2_0_TS1_60_TS2_0_TS3_0_TS4_0
+Receive: 2_1_Thành phố nào của nước ta được UNESCO trao danh hiệu "Thành phố vì hoà bình" vào ngày 16 tháng 7 năm 1999?
+Receive: 2_2
+Send: 0_
+Receive: 2_0_TS1_0_TS2_0_TS3_0_TS4_0
+Receive: 2_1_Thành phố nào của nước ta được UNESCO trao danh hiệu "Thành phố vì hoà bình" vào ngày 16 tháng 7 năm 1999?
+Receive: 2_2
+Receive: 2_0_TS1_10_TS2_10_TS3_10_TS4_0
+Receive: 2_1_Thành phố nào của nước ta được UNESCO trao danh hiệu "Thành phố vì hoà bình" vào ngày 16 tháng 7 năm 1999?
+Receive: 2_1_Thành phố nào của nước ta được UNESCO trao danh hiệu "Thành phố vì hoà bình" vào ngày 16 tháng 7 năm 1999?
+Receive: 2_1_Phế nang là đơn vị chức năng của cơ quan nào trong cơ thể con người?
+Receive: 2_2
+Send: 2_0
+Receive: 2_0_TS1_10_TS2_10_TS3_10_TS4_0
+Receive: 2_0_TS1_30_TS2_10_TS3_10_TS4_0
+Receive: 1_0_TS1_30_TS2_10_TS3_10_TS4_0
+Receive: 2_0_TS1_30_TS2_10_TS3_10_TS4_0
+Receive: 2_1_Phế nang là đơn vị chức năng của cơ quan nào trong cơ thể con người?
+Receive: 2_2
+Receive: 1_0_TS1_30_TS2_10_TS3_10_TS4_0
+Receive: 5_0_TS1_30_TS2_10_TS3_10_TS4_0
+Receive: 2_0_TS1_30_TS2_10_TS3_10_TS4_0
+Receive: 2_0_TS1_30_TS2_10_TS3_10_TS4_0
+Receive: 2_0_TS1_30_TS2_10_TS3_10_TS4_0
+Receive: 2_1_Phế nang là đơn vị chức năng của cơ quan nào trong cơ thể con người?
+Receive: 2_0_TS1_30_TS2_10_TS3_10_TS4_0
+Send: 0_
+Receive: 2_0_TS1_0_TS2_0_TS3_0_TS4_0
+Receive: 2_1_Năm 2015, ở Paris đã diễn ra Hội nghị Liên Hiệp Quốc về vấn đề gì?
+Receive: 2_2
+Receive: 2_0_TS1_10_TS2_0_TS3_10_TS4_0
+Receive: 0_0_TS1_10_TS2_20_TS3_10_TS4_0
+Receive: 2_0_TS1_10_TS2_20_TS3_10_TS4_0
+Receive: 2_1_Khu vực tập trung dân cư sinh sống có mật độ cao và chủ yếu hoạt động trong lĩnh vực kinh tế phi nông nghiệp được gọi là gì?
+Receive: 2_2
+Send: 2_1_Hung
+Send: 2_0
+Receive: 2_0_TS1_20_TS2_30_TS3_20_TS4_0
+Receive: 2_0_TS1_20_TS2_30_TS3_80_TS4_0
+Receive: 3_0_TS1_20_TS2_30_TS3_80_TS4_0
+Receive: 3_1
+Receive: 3_0_TS1_60_TS2_30_TS3_80_TS4_0
+Receive: 3_1
+3.60484749999916_aaaa
+Send: 3_3.60484749999916_aaaa
+Receive: 3_0_TS1_90_TS2_70_TS3_80_TS4_0
+Receive: 3_1
+Receive: 3_1
+14.1715772999984_fff
+Send: 3_14.1715772999984_fff
+1.74042409999875_fff
+Send: 3_1.74042409999875_fff
+Receive: 3_0_TS1_90_TS2_110_TS3_80_TS4_0
+Receive: 3_1
+Receive: 4_0_TS1_90_TS2_110_TS3_80_TS4_0
+Receive: 4_1_Đối với bếp từ, để thay đổi nhiệt độ đun, người ta thay đổi đại lượng gì của dòng điện?
+Receive: 4_1_Những thực vật nào sau đây thuộc nhóm thực vật C4: Mía, dứa, rêu, thanh long, rau dền, cỏ lồng vực
+Receive: 4_0_TS1_100_TS2_110_TS3_80_TS4_0
+Receive: 4_1_Sông Bạch Đằng là ranh giới tự nhiên của 2 tỉnh thành nào?
+Receive: 4_0_TS1_140_TS2_110_TS3_80_TS4_0
+Receive: 4_1_Bạn hãy trả lời câu hỏi của nhóm phóng viên Đỉnh Tri Thức
+Receive: 4_1_"Sính vật" của Chế Mân khi cưới Huyền Trân công chúa vào thời nhà Trần ở nước ta là 2 châu nào?
+Receive: 4_1_"Sính vật" của Chế Mân khi cưới Huyền Trân công chúa vào thời nhà Trần ở nước ta là 2 châu nào?
+Receive: 4_1_"Sính vật" của Chế Mân khi cưới Huyền Trân công chúa vào thời nhà Trần ở nước ta là 2 châu nào?
+Receive: 4_1_"Sính vật" của Chế Mân khi cưới Huyền Trân công chúa vào thời nhà Trần ở nước ta là 2 châu nào?
+Receive: 4_1_"Sính vật" của Chế Mân khi cưới Huyền Trân công chúa vào thời nhà Trần ở nước ta là 2 châu nào?
+Receive: 4_1_"Sính vật" của Chế Mân khi cưới Huyền Trân công chúa vào thời nhà Trần ở nước ta là 2 châu nào?
+Receive: 4_1_"Sính vật" của Chế Mân khi cưới Huyền Trân công chúa vào thời nhà Trần ở nước ta là 2 châu nào?
+Receive: 4_1_"Sính vật" của Chế Mân khi cưới Huyền Trân công chúa vào thời nhà Trần ở nước ta là 2 châu nào?
+Receive: 4_0_TS1_170_TS2_110_TS3_80_TS4_0
+Receive: 4_0_TS1_170_TS2_110_TS3_80_TS4_0
+Receive: 4_2_5
+Receive: 4_1_Bạn hãy trả lời câu hỏi của nhóm phóng viên Đỉnh Tri Thức
+Receive: 4_0_TS1_170_TS2_140_TS3_80_TS4_0
+Receive: 4_1_Bạn hãy trả lời câu hỏi sau bằng tiếng Anh?
+Receive: 5_0_TS1_170_TS2_140_TS3_80_TS4_0
+Receive: 5_1_Nhà kia con gái đi lấy chồng/Họ hàng khách khứa rất là đông
+Năm người một cỗ thừa một cỗ/Bốn người một cỗ bốn người không/
+Hỏi rằng dọn cỗ bao nhiêu nhỉ?/Gia chủ mời khách liệu có đông?
+Bạn hãy cho biết có bao nhiêu cỗ và khách?
+Receive: 5_2_15
+Receive: 5_0_TS1_180_TS2_150_TS3_90_TS4_10
+Receive: 5_1_Nhà kia con gái đi lấy chồng/Họ hàng khách khứa rất là đông
+Năm người một cỗ thừa một cỗ/Bốn người một cỗ bốn người không/
+Hỏi rằng dọn cỗ bao nhiêu nhỉ?/Gia chủ mời khách liệu có đông?
+Bạn hãy cho biết có bao nhiêu cỗ và khách?
+Receive: 5_1_Nhà kia con gái đi lấy chồng/Họ hàng khách khứa rất là đông
+Năm người một cỗ thừa một cỗ/Bốn người một cỗ bốn người không/
+Hỏi rằng dọn cỗ bao nhiêu nhỉ?/Gia chủ mời khách liệu có đông?
+Bạn hãy cho biết có bao nhiêu cỗ và khách?
+Receive: 5_1_Nhà kia con gái đi lấy chồng/Họ hàng khách khứa rất là đông
+Năm người một cỗ thừa một cỗ/Bốn người một cỗ bốn người không/
+Hỏi rằng dọn cỗ bao nhiêu nhỉ?/Gia chủ mời khách liệu có đông?
+Bạn hãy cho biết có bao nhiêu cỗ và khách?
+Receive: 5_1_Nhà kia con gái đi lấy chồng/Họ hàng khách khứa rất là đông
+Năm người một cỗ thừa một cỗ/Bốn người một cỗ bốn người không/
+Hỏi rằng dọn cỗ bao nhiêu nhỉ?/Gia chủ mời khách liệu có đông?
+Bạn hãy cho biết có bao nhiêu cỗ và khách?
+Receive: 5_1_Huyện đảo nào ở Quảng Ngãi có giống tỏi thơm ngon, được mệnh danh là "vua của các loại tỏi"?
+Receive: 5_2_15
+Receive: 5_1_Gợi ý
+Receive: 5_2_15
+Receive: 5_1_Gợi ý
+Receive: 5_1_Gợi ý
+Receive: 5_2_15
+Send: 0_
+Receive: 0_0_Lý Vũ ML_110_Văn Hùng_10_Diễm Quỳnh_0_Hữu Thắng_0
+Receive: 0_0_Lý Vũ_110_Văn Hùng_10_Diễm Quỳnh_0_Hữu Thắng_0
+Receive: 0_0_Lý Vũ_120_Văn Hùng_10_Diễm Quỳnh_0_Hữu Thắng_0

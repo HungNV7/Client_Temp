@@ -1,0 +1,85 @@
+C:\Users\ADMIN\Desktop\ClientDTT\ClientDTT\obj\Debug\ClientDTT.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\ClientDTT\ClientDTT\obj\Debug\MainWindow.g.cs
+C:\Users\ADMIN\Desktop\ClientDTT\ClientDTT\obj\Debug\User_Control\UC_Background.g.cs
+C:\Users\ADMIN\Desktop\ClientDTT\ClientDTT\obj\Debug\User_Control\UC_Start.g.cs
+C:\Users\ADMIN\Desktop\ClientDTT\ClientDTT\obj\Debug\App.g.cs
+C:\Users\ADMIN\Desktop\ClientDTT\ClientDTT\obj\Debug\ClientDTT_MarkupCompile.cache
+C:\Users\ADMIN\Desktop\ClientDTT\ClientDTT\obj\Debug\ClientDTT_MarkupCompile.lref
+C:\Users\ADMIN\Desktop\ClientDTT\ClientDTT\obj\Debug\MainWindow.baml
+C:\Users\ADMIN\Desktop\ClientDTT\ClientDTT\obj\Debug\User_Control\UC_Background.baml
+C:\Users\ADMIN\Desktop\ClientDTT\ClientDTT\obj\Debug\User_Control\UC_Start.baml
+C:\Users\ADMIN\Desktop\ClientDTT\ClientDTT\obj\Debug\ClientDTT.g.resources
+C:\Users\ADMIN\Desktop\ClientDTT\ClientDTT\obj\Debug\ClientDTT.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\ClientDTT\ClientDTT\obj\Debug\ClientDTT.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\ClientDTT\ClientDTT\obj\Debug\ClientDTT.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\ClientDTT\ClientDTT\obj\Debug\ClientDTT.exe
+C:\Users\ADMIN\Desktop\ClientDTT\ClientDTT\obj\Debug\ClientDTT.pdb
+C:\Users\ADMIN\Desktop\ClientDTT\ClientDTT\ClientDTT.exe.config
+C:\Users\ADMIN\Desktop\ClientDTT\ClientDTT\ClientDTT.exe
+C:\Users\ADMIN\Desktop\ClientDTT\ClientDTT\ClientDTT.pdb
+C:\Users\ADMIN\Desktop\ClientDTT\ClientDTT\obj\Debug\User_Control\UC_Finish.g.cs
+C:\Users\ADMIN\Desktop\ClientDTT\ClientDTT\obj\Debug\User_Control\UC_Finish.baml
+C:\Users\ADMIN\Desktop\ClientDTT\ClientDTT\obj\Debug\User_Control\UC_Decode.g.cs
+C:\Users\ADMIN\Desktop\ClientDTT\ClientDTT\obj\Debug\User_Control\UC_Decode.baml
+C:\Users\ADMIN\Desktop\ClientDTT\ClientDTT\obj\Debug\User_Control\UC_Accelerate.g.cs
+C:\Users\ADMIN\Desktop\ClientDTT\ClientDTT\obj\Debug\User_Control\UC_Accelerate.baml
+C:\Users\ADMIN\Desktop\ClientDTT\ClientDTT\obj\Debug\User_Control\UC_Obstacles.g.cs
+C:\Users\ADMIN\Desktop\ClientDTT\ClientDTT\obj\Debug\User_Control\UC_Obstacles.baml
+C:\Users\ADMIN\Desktop\ClientDTT\ClientDTT\obj\Debug\ExtendedWindow\EW_PointScreen.g.cs
+C:\Users\ADMIN\Desktop\ClientDTT\ClientDTT\obj\Debug\ExtendedWindow\EW_PointScreen.baml
+C:\Users\ADMIN\Desktop\ClientDTT - Copy\ClientDTT\obj\Debug\ClientDTT.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\ClientDTT - Copy\ClientDTT\obj\Debug\ExtendedWindow\EW_PointScreen.g.cs
+C:\Users\ADMIN\Desktop\ClientDTT - Copy\ClientDTT\obj\Debug\MainWindow.g.cs
+C:\Users\ADMIN\Desktop\ClientDTT - Copy\ClientDTT\obj\Debug\User_Control\UC_Accelerate.g.cs
+C:\Users\ADMIN\Desktop\ClientDTT - Copy\ClientDTT\obj\Debug\User_Control\UC_Background.g.cs
+C:\Users\ADMIN\Desktop\ClientDTT - Copy\ClientDTT\obj\Debug\User_Control\UC_Decode.g.cs
+C:\Users\ADMIN\Desktop\ClientDTT - Copy\ClientDTT\obj\Debug\User_Control\UC_Finish.g.cs
+C:\Users\ADMIN\Desktop\ClientDTT - Copy\ClientDTT\obj\Debug\User_Control\UC_Obstacles.g.cs
+C:\Users\ADMIN\Desktop\ClientDTT - Copy\ClientDTT\obj\Debug\User_Control\UC_Start.g.cs
+C:\Users\ADMIN\Desktop\ClientDTT - Copy\ClientDTT\obj\Debug\App.g.cs
+C:\Users\ADMIN\Desktop\ClientDTT - Copy\ClientDTT\obj\Debug\ClientDTT_MarkupCompile.cache
+C:\Users\ADMIN\Desktop\ClientDTT - Copy\ClientDTT\obj\Debug\ClientDTT_MarkupCompile.lref
+C:\Users\ADMIN\Desktop\ClientDTT - Copy\ClientDTT\obj\Debug\ExtendedWindow\EW_PointScreen.baml
+C:\Users\ADMIN\Desktop\ClientDTT - Copy\ClientDTT\obj\Debug\MainWindow.baml
+C:\Users\ADMIN\Desktop\ClientDTT - Copy\ClientDTT\obj\Debug\User_Control\UC_Accelerate.baml
+C:\Users\ADMIN\Desktop\ClientDTT - Copy\ClientDTT\obj\Debug\User_Control\UC_Background.baml
+C:\Users\ADMIN\Desktop\ClientDTT - Copy\ClientDTT\obj\Debug\User_Control\UC_Decode.baml
+C:\Users\ADMIN\Desktop\ClientDTT - Copy\ClientDTT\obj\Debug\User_Control\UC_Finish.baml
+C:\Users\ADMIN\Desktop\ClientDTT - Copy\ClientDTT\obj\Debug\User_Control\UC_Obstacles.baml
+C:\Users\ADMIN\Desktop\ClientDTT - Copy\ClientDTT\obj\Debug\User_Control\UC_Start.baml
+C:\Users\ADMIN\Desktop\ClientDTT - Copy\ClientDTT\obj\Debug\ClientDTT.g.resources
+C:\Users\ADMIN\Desktop\ClientDTT - Copy\ClientDTT\obj\Debug\ClientDTT.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\ClientDTT - Copy\ClientDTT\obj\Debug\ClientDTT.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\ClientDTT - Copy\ClientDTT\obj\Debug\ClientDTT.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\ClientDTT - Copy\ClientDTT\ClientDTT.exe.config
+C:\Users\ADMIN\Desktop\ClientDTT - Copy\ClientDTT\obj\Debug\ClientDTT.exe
+C:\Users\ADMIN\Desktop\ClientDTT - Copy\ClientDTT\obj\Debug\ClientDTT.pdb
+C:\Users\ADMIN\Desktop\ClientDTT - Copy\ClientDTT\ClientDTT.exe
+C:\Users\ADMIN\Desktop\ClientDTT - Copy\ClientDTT\ClientDTT.pdb
+D:\ĐTT2021\C#.Example\Hung\Mùa 5 Final source\ClientDTT - Copy\ClientDTT\obj\Debug\ExtendedWindow\EW_PointScreen.g.cs
+D:\ĐTT2021\C#.Example\Hung\Mùa 5 Final source\ClientDTT - Copy\ClientDTT\obj\Debug\MainWindow.g.cs
+D:\ĐTT2021\C#.Example\Hung\Mùa 5 Final source\ClientDTT - Copy\ClientDTT\obj\Debug\User_Control\UC_Accelerate.g.cs
+D:\ĐTT2021\C#.Example\Hung\Mùa 5 Final source\ClientDTT - Copy\ClientDTT\obj\Debug\User_Control\UC_Background.g.cs
+D:\ĐTT2021\C#.Example\Hung\Mùa 5 Final source\ClientDTT - Copy\ClientDTT\obj\Debug\User_Control\UC_Decode.g.cs
+D:\ĐTT2021\C#.Example\Hung\Mùa 5 Final source\ClientDTT - Copy\ClientDTT\obj\Debug\User_Control\UC_Finish.g.cs
+D:\ĐTT2021\C#.Example\Hung\Mùa 5 Final source\ClientDTT - Copy\ClientDTT\obj\Debug\User_Control\UC_Obstacles.g.cs
+D:\ĐTT2021\C#.Example\Hung\Mùa 5 Final source\ClientDTT - Copy\ClientDTT\obj\Debug\User_Control\UC_Start.g.cs
+D:\ĐTT2021\C#.Example\Hung\Mùa 5 Final source\ClientDTT - Copy\ClientDTT\obj\Debug\App.g.cs
+D:\ĐTT2021\C#.Example\Hung\Mùa 5 Final source\ClientDTT - Copy\ClientDTT\obj\Debug\ClientDTT_MarkupCompile.cache
+D:\ĐTT2021\C#.Example\Hung\Mùa 5 Final source\ClientDTT - Copy\ClientDTT\obj\Debug\ClientDTT_MarkupCompile.lref
+D:\ĐTT2021\C#.Example\Hung\Mùa 5 Final source\ClientDTT - Copy\ClientDTT\obj\Debug\ExtendedWindow\EW_PointScreen.baml
+D:\ĐTT2021\C#.Example\Hung\Mùa 5 Final source\ClientDTT - Copy\ClientDTT\obj\Debug\MainWindow.baml
+D:\ĐTT2021\C#.Example\Hung\Mùa 5 Final source\ClientDTT - Copy\ClientDTT\obj\Debug\User_Control\UC_Accelerate.baml
+D:\ĐTT2021\C#.Example\Hung\Mùa 5 Final source\ClientDTT - Copy\ClientDTT\obj\Debug\User_Control\UC_Background.baml
+D:\ĐTT2021\C#.Example\Hung\Mùa 5 Final source\ClientDTT - Copy\ClientDTT\obj\Debug\User_Control\UC_Decode.baml
+D:\ĐTT2021\C#.Example\Hung\Mùa 5 Final source\ClientDTT - Copy\ClientDTT\obj\Debug\User_Control\UC_Finish.baml
+D:\ĐTT2021\C#.Example\Hung\Mùa 5 Final source\ClientDTT - Copy\ClientDTT\obj\Debug\User_Control\UC_Obstacles.baml
+D:\ĐTT2021\C#.Example\Hung\Mùa 5 Final source\ClientDTT - Copy\ClientDTT\obj\Debug\User_Control\UC_Start.baml
+D:\ĐTT2021\C#.Example\Hung\Mùa 5 Final source\ClientDTT - Copy\ClientDTT\obj\Debug\ClientDTT.g.resources
+D:\ĐTT2021\C#.Example\Hung\Mùa 5 Final source\ClientDTT - Copy\ClientDTT\obj\Debug\ClientDTT.Properties.Resources.resources
+D:\ĐTT2021\C#.Example\Hung\Mùa 5 Final source\ClientDTT - Copy\ClientDTT\obj\Debug\ClientDTT.csproj.GenerateResource.Cache
+D:\ĐTT2021\C#.Example\Hung\Mùa 5 Final source\ClientDTT - Copy\ClientDTT\ClientDTT.exe.config
+D:\ĐTT2021\C#.Example\Hung\Mùa 5 Final source\ClientDTT - Copy\ClientDTT\obj\Debug\ClientDTT.exe
+D:\ĐTT2021\C#.Example\Hung\Mùa 5 Final source\ClientDTT - Copy\ClientDTT\obj\Debug\ClientDTT.pdb
+D:\ĐTT2021\C#.Example\Hung\Mùa 5 Final source\ClientDTT - Copy\ClientDTT\ClientDTT.exe
+D:\ĐTT2021\C#.Example\Hung\Mùa 5 Final source\ClientDTT - Copy\ClientDTT\ClientDTT.pdb
